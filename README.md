@@ -79,18 +79,17 @@ Mission network is deployed across MCF in star topology through which all the co
 ![image](https://github.com/chennakeshavadasa/Master-Control-Facility-ISRO-Internship/assets/123294639/b744fab9-6432-4e3a-8441-f16cd53eba4d)
 
 MCF is the nodal center for In-orbit Testing (IOT) of all GSO/GEO spacecraft payloads. IOT of satellite payloads is carried out after launch to check out the payload systems, subsequent to the launch of the spacecraft and to assess the key performance parameters to serve as reference for the entire lifetime of the payload. Executed In-Orbit Testing Projects for all INSAT/ GSAT and IRNSS satellites
+• Testing Communication, Navigation & Meteorological payloads
+• Automated test set-up to provide highly accurate test results
+• Flexibility for project specific enhancements
+• Facilities to carry out IOT for UHF, L, S, C, Ext-C, Ku and Ka Band
+• Station calibration and Satellite database creation
+• Time-line based In-Orbit Test Plan generation & timely execution
 
-## Testing Communication, Navigation & Meteorological payloads
+## Interference Monitoring & Geolocation Facility
 
-![image](https://github.com/chennakeshavadasa/Master-Control-Facility-ISRO-Internship/assets/123294639/bc45789c-8f3e-48ed-b060-28fd4d75e075)
+![image](https://github.com/chennakeshavadasa/Master-Control-Facility-ISRO-Internship/assets/123294639/09139d97-4652-4819-8009-4e99cdcd483d)
 
-Automated test set-up to provide highly accurate test results
-Flexibility for project specific enhancements
-Facilities to carry out IOT for UHF, L, S, C, Ext-C, Ku and Ka Band
-Station calibration and Satellite database creation
-Time-line based In-Orbit Test Plan generation & timely execution
-Interference Monitoring & Geolocation Facility
-Interference Monitoring & Geolocation Facility
 MCF co-ordinates for user support activities like service activation, service migration, benchmarking of uplink levels, user terminal optimization and communication link optimization. MCF is having a full-fledged carrier, interference monitoring and geo-location facility
 
 Facility have monitoring features like frequency, bandwidth and power violations, cross-pol interference, carrier-ID, carrier under carrier, transponder operating point etc.

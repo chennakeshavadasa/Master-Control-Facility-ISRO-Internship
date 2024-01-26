@@ -27,7 +27,8 @@ The life cycle of a Geo-Stationary Satellite consists of three distinct phases:
 • On-orbit Phase (Normal Phase).
 • End of Life phase (EOL).
  
- MCF activities include:
+ **MCF activities include:**
+ 
 **Round-the-clock Operations**
 Satellite health monitoring and control, Station keeping maneuvers, Eclipse Management, Spacecraft Contingency management,
 **Flight Dynamics Activities**

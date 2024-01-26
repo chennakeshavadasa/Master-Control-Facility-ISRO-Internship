@@ -10,7 +10,7 @@ Master Control Facility (MCF) at Hassan in Karnataka and Bhopal in Madhya Prades
 MCF has the expertise in operations of Indian Geosynchronous Space assets for Communication, Navigation and Metrological Payloads. All these geosynchronous satellites are being monitored, operated and maintained in the desired orbit.
 
 
-## Our Capabilities
+## Capabilities
 **Multi-Satellite Operations**
 
 ![image](https://github.com/chennakeshavadasa/Master-Control-Facility-ISRO-Internship/assets/123294639/3b1d4024-0d0c-4dd3-beff-48347f46de26)
@@ -23,10 +23,10 @@ It also takes care of decommissioning of spacecraft to grave yard orbit towards 
 
 The life cycle of a Geo-Stationary Satellite consists of three distinct phases:
 
-Initial Phase (LEOP)
-On-orbit Phase (Normal Phase)
-End of Life phase (EOL)
-MCF activities include:
+• Initial Phase (LEOP)
+• On-orbit Phase (Normal Phase)
+• End of Life phase (EOL)
+• MCF activities include:
 **Round-the-clock Operations**
 Satellite health monitoring and control, Station keeping maneuvers, Eclipse Management, Spacecraft Contingency management,
 **Flight Dynamics Activities**
